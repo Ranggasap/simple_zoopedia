@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ZooPediaApplication</string>
+    <string name="develop_by_rangga_saputra">Develop By Rangga Saputra</string>
+    <string name="developer">developer</string>
+    <string name="name">Rangga Saputra\n ranggasaputra200412@gmail.com</string>
+    <string name="exit">exit</string>
+    <string name="animals_name">animals_name</string>
+    <string name="detail">detail</string>
+    <string name="describe">describe</string>
+    <string name="animal_name">nama binatang</string>
+    <string name="panda">Panda</string>
+    <string name="ikan_hiu">Ikan Hiu</string>
+    <string name="scientific_name">Selachimorpha</string>
+    <string name="character">Karakteristik :</string>
+    <string name="char_1">- Hidup di air asin</string>
+    <string name="char_2">- Hewan Karnivora</string>
+    <string name="char_3">- Umur Hiu bisa mencapai 70 tahun</string>
+    <string name="makanan_favorit">Makanan Favorit</string>
+    <string name="ikan_ikan_kecil">Ikan-ikan Kecil</string>
+    <string name="panjang_hiu_bisa_sampai_6_meter">- Panjang hiu bisa sampai 6 meter</string>
+    <string name="berat_hiu_bisa_sampai_3_18_ton">- Berat Hiu bisa sampai 3,18 ton</string>
+    <string name="gurita">Gurita</string>
+    <string name="anjing_laut">Anjing laut</string>
+    <string name="penyu_laut">Penyu Laut</string>
+    <string name="detail_hewan">Detail Hewan</string>
+    <string name="deskripsi_hewan">Deskripsi Hewan</string>
+    <string name="sumber_gambar_informasi"><![CDATA[Sumber Gambar & Informasi]]></string>
+    <string name="www_google_com">www.google.com\nwww.youtube.com/watch?v=MUdIKF4V4m8</string>
+    <string name="share">share</string>
+    <string name="favorite">favorite</string>
+</resources>
